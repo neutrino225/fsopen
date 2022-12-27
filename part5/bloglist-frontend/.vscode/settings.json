@@ -1,0 +1,11 @@
+{
+    "eslint.workingDirectories": [
+        {
+            "mode": "auto"
+        }
+    ],
+    "eslint.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "rome.rome"
+    }
+}
